@@ -1,1 +1,0 @@
-Laboratorio avanzato informatica umanistica
