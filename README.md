@@ -3,7 +3,7 @@
 ## Cosa contiene il file REadme.md
 Il file Readme.md contiene informazioni relative al repository 
 ## Cosa contiene questo repository
-Questo è un repository di test creato per le lezioni del laboratorio di informatica umanistica
+Questo è un repository di test creato per le lezioni del Laboratorio di Informatica Umanistica
 ### About me
 - 👋 Hi, I’m @PiergiovannaGrossi
 - 👀 I’m interested in Digital Humanities
