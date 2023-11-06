@@ -1,4 +1,3 @@
-
 # Laboratorio di Informatica umanistica
 ## Cosa contiene il file REadme.md
 Il file README.md contiene informazioni relative al repository 
