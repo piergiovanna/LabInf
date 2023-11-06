@@ -1,5 +1,5 @@
 # Laboratorio di Informatica umanistica
-## Cosa contiene il file REadme.md
+## Cosa contiene il file README.md
 Il file README.md contiene informazioni relative al repository 
 ## Cosa contiene questo repository
 Questo è un repository di test creato per le lezioni del Laboratorio di Informatica Umanistica
